@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- values-in-rID/strings.xml -->
+<resources>
+    <string name="app_name">Preferensi Bahasa Per Aplikasi</string>
+    <string name="hello_world">Halo dunia!</string>
+</resources>

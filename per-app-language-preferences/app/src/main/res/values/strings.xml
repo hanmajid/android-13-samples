@@ -1,0 +1,5 @@
+<!-- values/strings.xml -->
+<resources>
+    <string name="app_name">Per-App Language Preferences</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
