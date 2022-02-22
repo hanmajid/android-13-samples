@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button_pick_photo_video"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pick 1 Image/Video" />
+
+    <Button
+        android:id="@+id/button_pick_photo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pick 1 Image" />
+
+    <Button
+        android:id="@+id/button_pick_video"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pick 1 Video" />
+
+    <Button
+        android:id="@+id/button_pick_3_photos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pick 3 Images" />
+
+    <TextView
+        android:id="@+id/text_mack_pick_media"
+        android:text="Max Pick Media: -"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
