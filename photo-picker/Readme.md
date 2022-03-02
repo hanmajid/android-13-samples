@@ -1,4 +1,4 @@
-# per-app-language-preferences
+# photo-picker
 
 <div align="center">
     <img src="screenshots/android-13-photo-picker.png" />
