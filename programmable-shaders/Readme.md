@@ -1,4 +1,4 @@
-# nearby-wifi-devices
+# programmable-shaders
 
 <div align="center">
     <img src="screenshots/android-13-programmable-shaders.png" />
