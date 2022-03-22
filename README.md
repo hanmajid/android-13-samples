@@ -12,3 +12,5 @@ Sample projects for Android 13 (Developer Preview 2).
 | <img src="per-app-language-preferences/screenshots/android-13-per-app-language-pref.png" /> | <img src="photo-picker/screenshots/android-13-photo-picker.png" /> |
 | Nearby Wi-Fi Devices Permission ([Github](/nearby-wifi-devices)) ([Tutorial](https://yggr.medium.com/exploring-android-13-nearby-wi-fi-devices-permission-7e1daa3610ba)) | Programmable Shaders ([Github](/programmable-shaders)) ([Tutorial](https://yggr.medium.com/exploring-android-13-programmable-shaders-db91683127e3)) |
 | <img src="nearby-wifi-devices/screenshots/android-13-nearby-wifi.png" /> | <img src="programmable-shaders/screenshots/android-13-programmable-shaders.png" /> |
+| Downgradable Permission ([Github](/downgradable-permission)) ([Tutorial](https://yggr.medium.com/exploring-android-13-downgradable-permission-5ca79bfcee2b)) | |
+| <img src="downgradable-permission/screenshots/android-13-downgradable-permission.png" /> | |
