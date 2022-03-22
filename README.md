@@ -1,6 +1,6 @@
 # android-13-samples
 
-Sample projects for Android 13 (Developer Preview 1).
+Sample projects for Android 13 (Developer Preview 2).
 
 ## Table of Content
 

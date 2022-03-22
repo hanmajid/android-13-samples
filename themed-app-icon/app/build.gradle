@@ -5,13 +5,11 @@ plugins {
 
 android {
     namespace 'com.hanmajid.android.tiramisu.themedappicon'
-//    compileSdk 32 // Delete this line
     compileSdkVersion "android-Tiramisu"
 
     defaultConfig {
         applicationId "com.hanmajid.android.tiramisu.themedappicon"
         minSdk 21
-//        targetSdk 32 // Delete this line
         targetSdkVersion "Tiramisu"
         versionCode 1
         versionName "1.0"
