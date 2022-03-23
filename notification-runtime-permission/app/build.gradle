@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace 'com.hanmajid.android.tiramisu.notificationruntimepermission'
-    compileSdk 32
+    compileSdkVersion "android-Tiramisu"
 
     defaultConfig {
         applicationId "com.hanmajid.android.tiramisu.notificationruntimepermission"
         minSdk 21
-        targetSdk 32
+        targetSdkVersion "Tiramisu"
         versionCode 1
         versionName "1.0"
 
