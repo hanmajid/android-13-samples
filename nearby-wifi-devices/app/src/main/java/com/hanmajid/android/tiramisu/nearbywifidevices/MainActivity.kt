@@ -52,7 +52,7 @@ class MainActivity : AppCompatActivity() {
 
     @SuppressLint("InlinedApi")
     private fun checkPermissionOrStartLocalOnlyHotspot() {
-        if (Build.VERSION.CODENAME == "Tiramisu") {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
             val permission: String = Manifest.permission.NEARBY_WIFI_DEVICES
             when {
                 ContextCompat.checkSelfPermission(
