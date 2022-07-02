@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace 'com.hanmajid.android.tiramisu.photopicker'
-    compileSdkVersion "android-Tiramisu"
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.hanmajid.android.tiramisu.photopicker"
         minSdk 21
-        targetSdkVersion "Tiramisu"
+        targetSdk 33
         versionCode 1
         versionName "1.0"
 

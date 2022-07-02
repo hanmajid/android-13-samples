@@ -49,7 +49,7 @@ class MainActivity : AppCompatActivity() {
                 }
             }
 
-        if (Build.VERSION.CODENAME == "Tiramisu") {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
             // Setup pick 1 image/video
             findViewById<Button>(R.id.button_pick_photo_video).setOnClickListener {
                 pickSingleMediaLauncher.launch(
