@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         findViewById<Button>(R.id.button_add_quick_settings).setOnClickListener {
-            if (Build.VERSION.CODENAME == "Tiramisu") {
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
                 val statusBarManager =
                     getSystemService(Context.STATUS_BAR_SERVICE) as StatusBarManager
                 /**
