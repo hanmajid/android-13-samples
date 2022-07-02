@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        if (Build.VERSION.CODENAME == "Tiramisu") {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
             localeManager =
                 getSystemService(Context.LOCALE_SERVICE) as LocaleManager
         }
@@ -39,7 +39,7 @@ class MainActivity : AppCompatActivity() {
     override fun onResume() {
         super.onResume()
 
-        if (Build.VERSION.CODENAME == "Tiramisu") {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
             val language = when (localeManager?.applicationLocales?.toLanguageTags()) {
                 "en" -> "English"
                 "id-ID" -> "Indonesian"
