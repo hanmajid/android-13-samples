@@ -14,5 +14,5 @@ Sample projects for Android 13.
 | <img src="nearby-wifi-devices/screenshots/android-13-nearby-wifi.png" /> | <img src="programmable-shaders/screenshots/android-13-programmable-shaders.png" /> |
 | Downgradable Permission ([Github](/downgradable-permission)) ([Tutorial](https://yggr.medium.com/exploring-android-13-downgradable-permission-5ca79bfcee2b)) | Notification Runtime Permission ([Github](/notification-runtime-permission)) ([Tutorial](https://yggr.medium.com/exploring-android-13-notification-runtime-permission-6e198bb5ae3b)) |
 | <img src="downgradable-permission/screenshots/android-13-downgradable-permission.png" /> | <img src="notification-runtime-permission/screenshots/android-13-notification-runtime-permission.png" /> |
-| Predictive Back Gesture ([Github](/predictive-back-gesture)) | |
-| <img src="predictive-back-gesture/screenshots/android-13-predictive-back-gesture.png" /> | |
+| Predictive Back Gesture ([Github](/predictive-back-gesture)) ([Tutorial](https://yggr.medium.com/exploring-android-13-predictive-back-gesture-2c6ad13652a2)) | Copy and Paste Improvements ([Github](/copy-and-paste)) |
+| <img src="predictive-back-gesture/screenshots/android-13-predictive-back-gesture.png" /> | <img src="copy-and-paste/screenshots/android-13-copy-and-paste.png" /> |
